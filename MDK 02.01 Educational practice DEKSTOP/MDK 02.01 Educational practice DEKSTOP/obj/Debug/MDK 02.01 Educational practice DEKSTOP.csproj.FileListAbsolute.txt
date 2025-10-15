@@ -1,0 +1,21 @@
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK 02.01 Educational practice DEKSTOP.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.Form1.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.Properties.Resources.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK 02.01 Educational practice DEKSTOP.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK 02.01 Educational practice DEKSTOP.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.BooksForm.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\bin\Debug\MDK 02.01 Educational practice DEKSTOP.exe.config
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\bin\Debug\MDK 02.01 Educational practice DEKSTOP.exe
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\bin\Debug\MDK 02.01 Educational practice DEKSTOP.pdb
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.AuthorsForm.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.CustomersForm.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.EditorsForm.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.EmployeesForm.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.ItemsForm.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.OrdersForm.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.PostsForm.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.TitleForm.resources
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK 02.01 Educational practice DEKSTOP.exe
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK 02.01 Educational practice DEKSTOP.pdb
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK 02.01 Educational practice DEKSTOP.exe.config
+C:\Users\Student\Desktop\db_Daniil\MDK 02.01 Educational practice DEKSTOP\MDK 02.01 Educational practice DEKSTOP\obj\Debug\MDK_02._01_Educational_practice_DEKSTOP.RoomsForm.resources
